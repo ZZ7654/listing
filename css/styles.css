@@ -1,0 +1,471 @@
+body {
+    background-color: lightblue;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.signout {
+    margin: auto auto auto 96%;
+}
+.user {
+    padding: 5px 50px;
+    margin: 100px auto 10px auto;
+}
+.usern {
+    margin: 100px auto 30px 350px;
+}
+.pass {
+    padding: 5px 50px;
+    margin: auto auto 30px auto;
+}
+.passw {
+    margin: 100px auto 30px 350px;
+}
+.signin-button {
+    padding: 5px 115px;
+    margin: auto auto 30px 415px;
+}
+.forgot {
+    padding: 5px 57.5px;
+    margin: auto auto 30px 470px;
+}
+input {
+    padding: 5px 5px;
+    margin: 10px auto;
+    
+}
+label {
+ margin: 10px auto auto 50px;
+}
+.home {
+    margin: 100px auto 20px auto;
+    padding: 2px 100px 2px 2px;
+}
+.listing {
+    margin: auto auto 20px auto;
+    padding: 2px 75px 2px 2px;
+}
+.message {
+    margin: auto auto 5px auto;
+}
+.sell {
+    margin: auto auto auto 500px;
+    padding: 30px 90px 30px 90px;
+}
+.browser {
+   margin: auto auto auto 500px;
+   padding: 30px 90px 30px 90px;
+}
+.inbox {
+    margin: auto auto auto 65px;
+}
+.sent {
+ margin: auto auto auto 65px;
+}
+.mylist {
+    position: relative;
+    left: 150px;
+    bottom: 50px;
+    size: 100px;
+}
+.mail {
+    margin: auto auto 50px 500px;
+}
+.info {
+    padding: 5px 20px 10px 2px;
+}
+.sentto{
+    margin: auto auto 50px 500px;
+}
+.aircraft {
+    margin: auto 20px auto 500px;
+    position: relative;
+    bottom: 310px;
+}
+.right {
+    position: relative;
+    bottom: 850px;
+}
+.left {
+    margin: auto 20px auto 5px;
+    position: relative;
+    bottom: 390px;
+}
+.upload {
+    position: relative;
+    bottom: 400px;
+}
+.rev {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    bottom: 310px;
+}
+.back {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+}
+.next {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    bottom: 310px;
+}
+.aircraft2 {
+    margin: auto 20px auto 500px;
+    position: relative;
+    bottom: 290px;
+}
+.right2 {
+    position: relative;
+    bottom: 830px;
+}
+.left2 {
+    margin: auto 20px auto 5px;
+    position: relative;
+    bottom: 360px;
+}
+.page9 {
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+    padding: 5px;
+}
+.ad1 {
+    margin-top: 10px;
+    padding: 25px 500px 25px 500px;
+    position: relative;
+    left: 250px;
+    bottom: 100px;
+}
+.ad2 {
+    margin-top: 10px;
+    padding: 25px 500px 25px 500px;
+    position: relative;
+    left: 250px;
+    bottom: 100px;
+}
+.ad3 {
+    margin-top: 10px;
+    padding: 25px 500px 25px 500px;
+    position: relative;
+    left: 250px;
+    bottom: 100px;
+}
+.contactsell {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 900px;
+    top: 500px;
+}
+.backto10 {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 400px;
+    top:500px;
+}
+.ata {
+    position: relative;
+    left: 900px;
+    padding: 80px 120px 80px 120px;
+}
+.per {
+    position: relative;
+    left: 300px;
+    padding: 50px 80px;
+}
+
+.s {
+    position: relative;
+    top: 100px;
+    left: 400px;
+    padding: 5px 7px;
+}
+
+.page14 {
+    position: relative;
+    left: 900px;
+    padding: 80px 120px 80px 120px;
+}
+.backto4 {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 400px;
+    top:300px;
+}
+.to18 {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 900px;
+    top: 300px;
+}
+.page15 {
+    position: relative;
+    left: 900px;
+    padding: 80px 120px 80px 120px;
+    background-color: gray  ;
+}
+.backto42 {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 400px;
+    top:300px;
+}
+.to16 {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 900px;
+    top: 300px;
+}
+.backtohome {
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    left: 400px;
+    top:100px;
+}
+.table {
+    position: relative;
+    left: 400px;
+    padding: 80px 120px 80px 120px;
+}
+.email2 {
+ position: relative;
+ left: 640px;
+ top: 400px;
+}
+.email {
+position: relative;
+top: 400px;
+left: 640px;
+}
+.next {
+    position: relative;
+    left:350px;
+    top:410px;
+}
+.link {
+    position: relative;
+    left: 600px;
+    top: 410px;
+}
+.New {
+    position: relative;
+    left: 80%;
+    padding: 5px 5px;
+}
+.confirm {
+    position: relative;
+    left: 90%;
+    bottom: 50px;
+    padding: 5px 5px;
+}
+.new {
+    position: relative;
+    left: 80%;
+    padding: 5px 5px;
+}
+.con {
+    position: relative;
+    left: 90%;
+    bottom: 50px;
+    padding: 5px 5px;
+}
+.change {
+    position: relative;
+    left: 90%;
+    padding: 5px 5px;
+}
+.changepa {
+    position: relative;
+    left: 70%;
+    padding: 5px 5px;
+}
+.button {
+    position: relative;
+    left: 70%;
+}
+.list5{
+position: relative;
+left: 560px;
+}
+
+.atta {
+    position: relative;
+    left: 350px;
+    padding: 50px 100px;
+}
+
+.ba {
+ padding:10px 40px;
+ position: relative;
+ left: 350px;
+}
+.ed {
+    padding: 5px 20px;
+    position: relative;
+    left: 400px;
+}
+
+.z {
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}
+
+.y {
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}
+
+.x {
+    position: relative;
+    left: 90%;
+}
+
+.a11 {
+    background-color: lightgray;
+}
+
+.a22 {
+    background-color: lightgrey;
+}
+
+.a33 {
+    position: relative;
+    left: 250px;
+}
+.conf {
+    position: relative;
+    left: 400px;
+    padding: 10px 20px;
+}
+
+.bac {
+    position: relative;
+    left: 300px;
+    padding: 10px;
+}
+
+
+.under {
+    position: relative;
+    padding: 5px 30px;
+    left: 300px;
+}
+
+.my {
+    padding: 5px 20px;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+
+
+.one {
+    position: relative;
+    left: 400px;
+}
+
+.two {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.three {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.four {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.five {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.six {
+    position: relative;
+    left: 750px;
+    bottom: 150px;
+}
+
+.seven {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.eight {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+.nine {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.ten {
+    position: relative;
+    left: 350px;
+    bottom: 150px;
+}
+
+.eleven {
+    position: relative;
+    left: 300px;
+    bottom: 150px;
+}
+
+.twelve {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.t13 {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.t14 {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.t15 {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.t16 {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+.three2 {
+    position: relative;
+    left: 20px;
+}
+
+.two2 {
+    position: relative;
+    left: 20px;
+}
+
+.four2 {
+    position: relative;
+    left: 20px;
+}
